@@ -1,4 +1,4 @@
-Hi,I'm Hafiz Tanzeel 👋
+# Hi,I'm Hafiz Tanzeel 👋
 - 🔭 working as Freelancer
 - 🌱 Learning Machine Learning
 - 👯 looking to collaborate on Full Stack Role
