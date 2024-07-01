@@ -10,7 +10,12 @@
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/) 
 
 
+## Contact
 
+Feel free to reach out to me for any collaboration opportunities or queries!
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/) 
+- Email: hafiztanzeel.pk@gmail.com
 
 
 <!---
