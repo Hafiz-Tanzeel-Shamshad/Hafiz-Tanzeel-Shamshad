@@ -2,7 +2,7 @@
 
 - 🔭 Working as Freelancer specializing in React MERN Stack and WordPress Plugins.
 - 👯 Seeking collaboration opportunities in Full-Stack Development roles.
-- 💬 Proficient in JavaScript, React, Node.js, MongoDB, and WordPress; feel free to ask me about Web Development.
+- 💬 Proficient in JavaScript, React, Node.js, MongoDB, and WordPress;
 - 🌱 Actively Learning Machine Learning, focusing on [Natural language processing, Computer Vision]
 - 🤔 Looking for guidance in Data Science, particularly in [Data Analysis, Machine Learning Algorithms].
 - 🎓 Bachelor of Science in Computer Science (BSCS) from Riphah International University.
