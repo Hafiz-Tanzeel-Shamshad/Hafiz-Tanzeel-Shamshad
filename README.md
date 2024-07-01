@@ -1,9 +1,9 @@
 # Hi, I'm Hafiz Tanzeel 👋
 
-- 🔭 Currently working as a freelancer specializing in React MERN Stack Development and WordPress Plugins.
-- 🌱 Actively learning machine learning, focusing on [specific area if any, e.g., natural language processing, computer vision]
+- 🔭 Working as Freelancer specializing in React MERN Stack and WordPress Plugins.
+- 🌱 Actively Learning Machine Learning, focusing on [Natural language processing, Computer Vision]
 - 👯 Seeking collaboration opportunities in Full-Stack Development roles.
-- 🤔 Looking for guidance in Data Science, particularly in [specific area if any, e.g., data analysis, machine learning algorithms].
+- 🤔 Looking for guidance in Data Science, particularly in [Data Analysis, Machine Learning Algorithms].
 - 💬 Proficient in JavaScript, React, Node.js, MongoDB, and WordPress; feel free to ask me about Web Development.
 - 🎓 Bachelor of Science in Computer Science (BSCS) from Riphah International University.
 - ⚡ Fun fact: I am passionate about innovation and problem-solving and eager to explore the field of Data Science.
