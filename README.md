@@ -7,14 +7,14 @@
 - 🤔 Looking for guidance in Data Science, particularly in [Data Analysis, Machine Learning Algorithms].
 - 🎓 Bachelor of Science in Computer Science (BSCS) from Riphah International University.
 - ⚡ Fun fact: I am passionate about innovation and problem-solving and eager to explore the field of Data Science.
-- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/) 
+- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/) 
 
 
 ## Contact
 
 Feel free to reach out to me for any collaboration opportunities or queries!
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/) 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/) 
 - Email: hafiztanzeel.pk@gmail.com
 
 
