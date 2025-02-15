@@ -1,27 +1,39 @@
 # Hi, I'm Hafiz Tanzeel! 👋  
 
-🚀 **MERN Stack Developer | AI & ML Enthusiast | Cloud & Software Engineer**  
+🚀 **Software Engineer | MERN Stack Developer | AI & Machine Learning Enthusiast**  
 
-## 🔹 About Me  
+## 🏆 About Me  
 
-I am a **highly motivated software engineer** specializing in **full-stack web development** and **machine learning applications**. With expertise in modern technologies and cloud computing, I am passionate about building scalable, efficient, and innovative solutions.  
+I am a results-driven **Software Engineer** with expertise in **Full-Stack Development, Artificial Intelligence, and Cloud Computing**. Passionate about building scalable web applications and intelligent systems, I thrive on solving complex challenges through innovative technology solutions.  
 
-### 🔧 **Technical Skills**  
+### 🔹 **Technical Expertise**  
 
-- **Full-Stack Development:** React.js, Node.js, Express.js, MongoDB, MySQL, PHP  
-- **Programming Languages:** JavaScript, Python, C++, Java (OOP, DSA)  
-- **Cloud & DevOps:** AWS, Railway  
-- **Artificial Intelligence & Machine Learning:** NLP, Computer Vision, Data Analysis  
-- **Software Development:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
+#### **💻 Software & Web Development**  
+- **Full-Stack:** React.js, Node.js, Express.js, MongoDB, MySQL, PHP  
+- **Frontend:** React.js, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth)  
 
-### 🎯 **Current Focus**  
-- Advancing my knowledge in **AI & ML**, particularly **Natural Language Processing (NLP)** and **Computer Vision**  
+#### **📊 Artificial Intelligence & Machine Learning**  
+- **Domains:** Natural Language Processing (NLP), Computer Vision, Data Analysis  
+- **Technologies:** Python, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV  
+
+#### **☁️ Cloud & DevOps**  
+- **Cloud Platforms:** AWS, Railway  
+- **Version Control:** Git, GitHub  
+- **Deployment & CI/CD:** Docker, Vercel, Netlify  
+
+#### **🔢 Programming & Problem-Solving**  
+- **Languages:** JavaScript, Python, C++, Java  
+- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
+
+## 🎯 Current Focus  
+- Advancing skills in **AI-driven applications** with a focus on **NLP & Computer Vision**  
 - Developing **scalable web applications** using modern **cloud infrastructure**  
-- Exploring **high-performance computing** and **data-driven solutions**  
+- Exploring **high-performance computing** and **data engineering**  
 
-## 📬 Let's Connect  
+## 📬 Get in Touch  
 
-I am open to collaboration opportunities in **full-stack development**, **AI/ML**, and **cloud-based applications**.  
+I am open to collaboration and networking opportunities in **Software Development, AI/ML, and Cloud Computing**.  
 
 - 🔗 **LinkedIn:** [hafiz-tanzeel-shamshad](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/)  
 - 📧 **Email:** [hafiztanzeel.pk@gmail.com](mailto:hafiztanzeel.pk@gmail.com)  
