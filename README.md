@@ -4,7 +4,7 @@
 
 ## 🏆 About Me  
 
-I am a results-driven **Software Engineer** with expertise in **Full-Stack Development, Artificial Intelligence, and Cloud Computing**. Passionate about building scalable web applications and intelligent systems, I thrive on solving complex challenges through innovative technology solutions.  
+I am a results-driven **Software Engineer** with expertise in **Full-Stack Development, Artificial Intelligence, and Cloud Computing**. <br/> Passionate about building scalable web applications and intelligent systems, I thrive on solving complex challenges through <br>innovative technology solutions.  
 
 ### 🔹 **Technical Expertise**  
 
@@ -24,7 +24,7 @@ I am a results-driven **Software Engineer** with expertise in **Full-Stack Devel
 
 #### **🔢 Programming & Problem-Solving**  
 - **Languages:** JavaScript, Python, C++, Java  
-- **Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
+- **Concepts:** OOPS & DSA  
 
 ## 🎯 Current Focus  
 - Advancing skills in **AI-driven applications** with a focus on **NLP & Computer Vision**  
@@ -35,8 +35,9 @@ I am a results-driven **Software Engineer** with expertise in **Full-Stack Devel
 
 I am open to collaboration and networking opportunities in **Software Development, AI/ML, and Cloud Computing**.  
 
-- 🔗 **LinkedIn:** [Hafiz Tanzeel](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/)  
 - 📧 **Email:** [hafiztanzeel.pk@gmail.com](mailto:hafiztanzeel.pk@gmail.com)  
+- 🔗 **LinkedIn:** [Hafiz Tanzeel](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/)  
+
 
 ---
 
