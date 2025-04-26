@@ -14,7 +14,7 @@ I am a results-driven **Software Engineer** with expertise in **Full-Stack Devel
 - **Backend:** Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth)  
 
 #### **📊 Artificial Intelligence & Machine Learning**  
-- **Domains:** Natural Language Processing (NLP), Computer Vision, Data Analysis  
+- **Domains:** Natural Language Processing (NLP), Computer Vision, Deep Learning
 - **Technologies:** Python, TensorFlow, Scikit-Learn, Pandas, NumPy, OpenCV  
 
 #### **☁️ Cloud & DevOps**  
