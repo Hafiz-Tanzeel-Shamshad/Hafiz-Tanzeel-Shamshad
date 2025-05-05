@@ -27,7 +27,7 @@ I am a results-driven **Software Engineer** with expertise in **Full-Stack Devel
 - **Concepts:** OOPS & DSA  
 
 ## 🎯 Current Focus  
-- Advancing skills in **AI-driven applications** with a focus on **NLP & Computer Vision**  
+- Advancing skills in **AI-driven applications** with a focus on **Deep Learning & Computer Vision**  
 - Developing **scalable web applications** using modern **cloud infrastructure**  
 - Exploring **high-performance computing** and **data engineering**  
 
