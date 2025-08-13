@@ -1,4 +1,5 @@
 # Hi, I'm Hafiz Tanzeel! 👋  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Hafiz-Tanzeel/) [![My YouTube Channel](https://img.shields.io/badge/Mastering%20AI%20Algorithm-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLIU5O_PDxNPhElJOMdIOuPNF1ZrI-pSiH)
 
 🚀 **Software Engineer | MERN Stack Developer | AI & Machine Learning Enthusiast**  
 
