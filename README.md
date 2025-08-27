@@ -39,7 +39,7 @@ I am a results-driven **Software Engineer** with expertise in **Full-Stack Devel
 I am open to collaboration and networking opportunities in **Software Development, AI/ML, and Cloud Computing**.  
 
 - 📧 **Email:** [hafiztanzeel.pk@gmail.com](mailto:hafiztanzeel.pk@gmail.com)  
-- 🔗 **LinkedIn:** [Hafiz Tanzeel](www.linkedin.com/in/hafiztanzeel-dev/)  
+- 🔗 **LinkedIn:** [Hafiz Tanzeel](https://www.linkedin.com/in/hafiztanzeel-dev/)  
 
 
 ---
